@@ -14,7 +14,7 @@ command -v toml > /dev/null 2>&1 || { echo >&2 "toml not installed. More info: h
 electrad config keyring-backend $KEYRING
 electrad config chain-id $CHAINID
 
-# My dear Alice
+# My dear Electra/Alice
 # electrad keys add alice --recover 
 # satisfy dirt consider electric apart coin later recall enhance pizza dust way shop erosion innocent actor member double always budget rival congress person uncle
 
