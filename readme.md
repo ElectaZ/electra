@@ -1,7 +1,7 @@
 ![Electra Logo](/vue/public/Electra.png "Electra")
 
 # Electra
-**electra** is the blockchain that enables local micro-grid to operate smoothly between trustless actors enabling a real circular economy based on exchange of electricity units (kWh) by the means of pre-purchased tokens.
+**Electra** is the blockchain that enables local micro-grid to operate smoothly between trustless actors enabling a real circular economy based on exchange of electricity units (kWh) by the means of pre-purchased tokens.
 
 ## The BlockChain based Micro-Grid Architecture
 
@@ -54,8 +54,8 @@ The frontend app is built using the `@starport/vue` and `@starport/vuex` package
 To release a new version of your blockchain, create and push a new tag with `v` prefix. A new draft release with the configured targets will be created.
 
 ```
-git tag v0.1
-git push origin v0.1
+git tag v0.2
+git push origin v0.2
 ```
 
 After a draft release is created, make your final changes from the release page and publish it.
